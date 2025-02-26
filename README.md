@@ -13,10 +13,12 @@ A recent graduate from Asia Pacific University of Technology and Innovation (APU
 
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/nikitha-upadhya-020911u)
+
 [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/nikitha-upadhya-020911u)
 &nbsp;&nbsp;
 
+[![website](./img/discord-dark.svg)](https://discord.com/channels/@me)
+&nbsp;&nbsp;
 
 <!---
 NikithaUpadhya/NikithaUpadhya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
