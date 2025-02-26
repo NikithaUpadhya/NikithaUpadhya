@@ -16,7 +16,6 @@ A recent graduate from Asia Pacific University of Technology and Innovation (APU
 
 [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/nikitha-upadhya-020911u)
 &nbsp;&nbsp;
-
 [![website](./img/discord-dark.svg)](https://discord.com/channels/@me)
 &nbsp;&nbsp;
 
